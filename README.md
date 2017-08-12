@@ -1,1 +1,1 @@
-# LaputaDoc
+# Laputa Document
